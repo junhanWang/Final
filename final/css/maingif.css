@@ -1,0 +1,22 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+</style>
+
+body {
+  background-color: black;
+}
+
+#gif{
+  position:absolute;
+  left:33%;
+  top:40%;
+}
+#giftitle{
+position: absolute;
+left:45%;
+top:60%;
+font-family:'Poiret One';
+font-size: 20pt;
+
+
+}

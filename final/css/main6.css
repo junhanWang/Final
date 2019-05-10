@@ -1,0 +1,29 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+</style>
+
+body {background-color: white;}
+
+#mary2{
+  position: absolute;
+  top:10%;
+  left:10%;
+}
+
+#mary2context{
+  width:20%;
+  position: absolute;
+  top:30%;
+  left:65%;
+  font-family:'Poiret One';
+  font-size: 20pt;
+}
+
+#botton{
+  position: absolute;
+  top:90%;
+  left:80%;
+  font-family:'Poiret One';
+  font-size: 20pt;
+
+}

@@ -1,0 +1,56 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+body {background-color: black;}
+
+
+#glitch{
+  position: absolute;
+  left:29%;
+  top:25%;
+}
+
+#rock{
+  position: absolute;
+  left:29%;
+  top:50%;
+}
+
+#horse{
+  position: absolute;
+  left:29%;
+  top:80%;
+}
+
+#color{
+  position: absolute;
+  left:29%;
+  top:110%;
+}
+
+#mary{
+  position: absolute;
+  left:29%;
+  top:139%;
+}
+
+#breakfast{
+  position: absolute;
+  left:29%;
+  top:170%;
+}
+
+#saint{
+  position: absolute;
+  left:29%;
+  top:210%;
+}
+#header{
+  position:absolute;
+  top:10%;
+  left:30%;
+  color: #6A00EB;
+  font-family:'Poiret One';
+  font-size: 20pt;
+}
